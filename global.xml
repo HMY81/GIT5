@@ -20,6 +20,17 @@
          <var name="C_008" type="DINT"/>
          <var name="C_009" type="DINT"/>
          <var name="C_010" type="DINT"/>
+         <var name="D_000" type="INT"/>
+         <var name="D_001" type="INT"/>
+         <var name="D_002" type="INT"/>
+         <var name="D_003" type="INT"/>
+         <var name="D_004" type="INT"/>
+         <var name="D_005" type="INT"/>
+         <var name="D_006" type="INT"/>
+         <var name="D_007" type="INT"/>
+         <var name="D_008" type="INT"/>
+         <var name="D_009" type="INT"/>
+         <var name="D_010" type="INT"/>
       </vargroup>
       <vargroup name="(Retain)" kind="RETAIN">
       </vargroup>
