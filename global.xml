@@ -9,6 +9,17 @@
          <var name="B_003" type="BOOL"/>
          <var name="B_004" type="BOOL"/>
          <var name="B_005" type="BOOL"/>
+         <var name="D_000" type="INT"/>
+         <var name="D_001" type="INT"/>
+         <var name="D_002" type="INT"/>
+         <var name="D_003" type="INT"/>
+         <var name="D_004" type="INT"/>
+         <var name="D_005" type="INT"/>
+         <var name="D_006" type="INT"/>
+         <var name="D_007" type="INT"/>
+         <var name="D_008" type="INT"/>
+         <var name="D_009" type="INT"/>
+         <var name="D_010" type="INT"/>
       </vargroup>
       <vargroup name="(Retain)" kind="RETAIN">
       </vargroup>
