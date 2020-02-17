@@ -3,6 +3,12 @@
    <variables>
       <vargroup name="(Global)" kind="GLOBAL">
          <var name="A_123" type="BOOL"/>
+         <var name="B_000" type="BOOL"/>
+         <var name="B_001" type="BOOL"/>
+         <var name="B_002" type="BOOL"/>
+         <var name="B_003" type="BOOL"/>
+         <var name="B_004" type="BOOL"/>
+         <var name="B_005" type="BOOL"/>
       </vargroup>
       <vargroup name="(Retain)" kind="RETAIN">
       </vargroup>
