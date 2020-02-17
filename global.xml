@@ -9,6 +9,17 @@
          <var name="B_003" type="BOOL"/>
          <var name="B_004" type="BOOL"/>
          <var name="B_005" type="BOOL"/>
+         <var name="C_000" type="DINT"/>
+         <var name="C_001" type="DINT"/>
+         <var name="C_002" type="DINT"/>
+         <var name="C_003" type="DINT"/>
+         <var name="C_004" type="DINT"/>
+         <var name="C_005" type="DINT"/>
+         <var name="C_006" type="DINT"/>
+         <var name="C_007" type="DINT"/>
+         <var name="C_008" type="DINT"/>
+         <var name="C_009" type="DINT"/>
+         <var name="C_010" type="DINT"/>
          <var name="D_000" type="INT"/>
          <var name="D_001" type="INT"/>
          <var name="D_002" type="INT"/>
