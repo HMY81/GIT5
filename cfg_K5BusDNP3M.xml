@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+<K5project version="1.1">
+   <networks>
+   </networks>
+   <fieldbus>
+      <K5BusDNP3M K5ID="1" OLDLOGTRACE="0" CYCLETIME="100ms" LOGTRACE="0" __F="-17">
+      </K5BusDNP3M>
+   </fieldbus>
+</K5project>
