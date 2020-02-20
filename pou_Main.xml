@@ -5,7 +5,9 @@
          <vargroup name="Main" kind="LOCAL">
          </vargroup>
 <defines name="Main"></defines>
-         <sourceSTIL>
+         <sourceSTIL>Var001:= Var001 + 1;
+Var002:= Var002 + Var001;
+//test
          </sourceSTIL>
       </pou>
    </programs>
