@@ -2,6 +2,22 @@
 <K5project version="1.1">
    <networks>
       <modbus>
+         <modbusport kind="master" address="127.0.0.1" port="502" sdiags="1" reconnect="1" disabled="0" reqdelay="0" cnxdelay="0" rtu="0" desc="">
+            <modbusreq name="test1" mode="Read Input Registers" address="0" nbitem="13" slave="1" call="OnChange" timeout="3000" retry="1">
+               <modbusitem ope="Data" offset="0" symbol="Var000" nbword="1" mask="ffff" RangeHi="" RangeLo="" SigHi="" SigLo=""/>
+               <modbusitem ope="Data" offset="0" symbol="Var001" nbword="1" mask="ffff" RangeHi="" RangeLo="" SigHi="" SigLo=""/>
+               <modbusitem ope="Data" offset="0" symbol="Var002" nbword="1" mask="ffff" RangeHi="" RangeLo="" SigHi="" SigLo=""/>
+               <modbusitem ope="Data" offset="0" symbol="Var003" nbword="1" mask="ffff" RangeHi="" RangeLo="" SigHi="" SigLo=""/>
+               <modbusitem ope="Data" offset="0" symbol="Var004" nbword="1" mask="ffff" RangeHi="" RangeLo="" SigHi="" SigLo=""/>
+               <modbusitem ope="Data" offset="0" symbol="Var005" nbword="1" mask="ffff" RangeHi="" RangeLo="" SigHi="" SigLo=""/>
+               <modbusitem ope="Data" offset="0" symbol="Var006" nbword="1" mask="ffff" RangeHi="" RangeLo="" SigHi="" SigLo=""/>
+               <modbusitem ope="Data" offset="0" symbol="Var007" nbword="1" mask="ffff" RangeHi="" RangeLo="" SigHi="" SigLo=""/>
+               <modbusitem ope="Data" offset="0" symbol="Var008" nbword="1" mask="ffff" RangeHi="" RangeLo="" SigHi="" SigLo=""/>
+               <modbusitem ope="Data" offset="0" symbol="Var009" nbword="1" mask="ffff" RangeHi="" RangeLo="" SigHi="" SigLo=""/>
+               <modbusitem ope="Data" offset="0" symbol="Var010" nbword="1" mask="ffff" RangeHi="" RangeLo="" SigHi="" SigLo=""/>
+               <modbusitem ope="Data" offset="0" symbol="Var011" nbword="1" mask="ffff" RangeHi="" RangeLo="" SigHi="" SigLo=""/>
+            </modbusreq>
+         </modbusport>
       </modbus>
    </networks>
    <fieldbus>
