@@ -2,6 +2,18 @@
 <K5project version="1.1">
    <variables>
       <vargroup name="(Global)" kind="GLOBAL">
+         <var name="Var000" type="DINT"/>
+         <var name="Var001" type="DINT"/>
+         <var name="Var002" type="DINT"/>
+         <var name="Var003" type="DINT"/>
+         <var name="Var004" type="DINT"/>
+         <var name="Var005" type="DINT"/>
+         <var name="Var006" type="DINT"/>
+         <var name="Var007" type="DINT"/>
+         <var name="Var008" type="DINT"/>
+         <var name="Var009" type="DINT"/>
+         <var name="Var010" type="DINT"/>
+         <var name="Var011" type="DINT"/>
       </vargroup>
       <vargroup name="(Retain)" kind="RETAIN">
       </vargroup>
